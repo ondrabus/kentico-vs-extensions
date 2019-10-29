@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+  <TemplateData>
+    <Name>MVC Form Component</Name>
+    <Description>Template for Kentico MVC form component</Description>
+    <Icon>Kentico.MVC.FormComponentItemTemplate.ico</Icon>
+    <TemplateID>921abd97-0b82-4c6c-aaf1-037a8080776c</TemplateID>
+    <ProjectType>CSharp</ProjectType>
+    <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+    <DefaultName>SampleFormComponent.cs</DefaultName>
+  </TemplateData>
+  <TemplateContent>
+    <References>
+      <Reference>
+        <Assembly>System</Assembly>
+      </Reference>
+    </References>
+    <ProjectItem TargetFileName="$fileinputname$.cs" ReplaceParameters="true">SampleFormComponent.cs</ProjectItem>
+    <ProjectItem TargetFileName="$fileinputname$Properties.cs" ReplaceParameters="true">SampleFormComponentProperties.cs</ProjectItem>
+    <ProjectItem TargetFileName="_$fileinputname$.cshtml" ReplaceParameters="true">_SampleFormComponent.cshtml</ProjectItem>
+  </TemplateContent>
+</VSTemplate>
