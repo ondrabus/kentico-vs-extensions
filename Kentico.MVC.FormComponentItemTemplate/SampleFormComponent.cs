@@ -11,7 +11,7 @@ using $rootnamespace$;
 
 namespace $rootnamespace$
 {
-    public class $safeitemname$ : FormComponent<$fileinputnameProperties, string> // TODO: change string to desired output type
+    public class $safeitemname$ : FormComponent<$fileinputname$Properties, string> // TODO: change string to desired output type
     {
         public const string IDENTIFIER = "$rootnamespace$.$safeitemname$";
 

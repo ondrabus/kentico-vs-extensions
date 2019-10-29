@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kentico.MVC.VisualStudioExt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kentico.MVC.WidgetItemTemplate", ".\Kentico.MVC.WidgetItemTemplate\Kentico.MVC.WidgetItemTemplate.csproj", "{512D9CA3-071C-43FF-976E-1D4500102908}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kentico.MVC.FormComponentItemTemplate", ".\Kentico.MVC.FormControlItemTemplate\Kentico.MVC.FormComponentItemTemplate.csproj", "{ED9BB3C1-9481-4595-ABB7-00B6D3E0B103}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kentico.MVC.FormComponentItemTemplate", ".\Kentico.MVC.FormComponentItemTemplate\Kentico.MVC.FormComponentItemTemplate.csproj", "{ED9BB3C1-9481-4595-ABB7-00B6D3E0B103}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kentico.MVC.SectionItemTemplate", ".\Kentico.MVC.SectionItemTemplate\Kentico.MVC.SectionItemTemplate.csproj", "{4B4E22E2-3141-4EF5-AD7E-E615EFC2D37C}"
 EndProject

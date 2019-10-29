@@ -9,7 +9,7 @@ namespace $rootnamespace$
         {
         }
 
-        [DefaultValueEditingComponent($fileinputname$Component.IDENTIFIER, DefaultValue = "Hello world")]
+        [DefaultValueEditingComponent($fileinputname$.IDENTIFIER, DefaultValue = "Hello world")]
         public override string DefaultValue { get; set; }
     }
 }

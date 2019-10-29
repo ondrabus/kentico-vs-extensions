@@ -56,7 +56,7 @@
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="16.2.3074" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Kentico.MVC.FormControlItemTemplate\Kentico.MVC.FormComponentItemTemplate.csproj">
+    <ProjectReference Include="..\Kentico.MVC.FormComponentItemTemplate\Kentico.MVC.FormComponentItemTemplate.csproj">
       <Project>{ED9BB3C1-9481-4595-ABB7-00B6D3E0B103}</Project>
       <Name>Kentico.MVC.FormComponentItemTemplate</Name>
       <VSIXSubPath>ItemTemplates</VSIXSubPath>
