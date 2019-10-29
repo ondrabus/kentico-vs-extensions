@@ -7,7 +7,7 @@ using $rootnamespace$;
     "$safeitemname$",
     IconClass = "",
     IsAvailableInFormBuilderEditor = true,
-    ViewName = "FormComponents/$fileinputname$/_$safeitemname$")]
+    ViewName = "FormComponents/_$safeitemname$")]
 
 namespace $rootnamespace$
 {
