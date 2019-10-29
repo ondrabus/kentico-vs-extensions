@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Kentico.MVC.VisualStudioExtensions.02702780-92f0-462e-85a7-bd2e1d4542c3" Version="1.0" Language="en-US" Publisher="Ondrej Polesny" />
-        <DisplayName>Kentico.MVC.VisualStudioExtensions</DisplayName>
-        <Description xml:space="preserve">Extension for easier Kentico MVC development. Contains templates for templates, sections, widgets and form controls.</Description>
+        <Identity Id="Kentico.MVC.VisualStudioExtensions.02702780-92f0-462e-85a7-bd2e1d4542c3" Version="1.0" Language="en-US" Publisher="Kentico" />
+        <DisplayName>Kentico MVC extension</DisplayName>
+        <Description xml:space="preserve">Extension for easier Kentico MVC development. Contains item templates for sections, widgets and form components.</Description>
+        <Icon>icon.png</Icon>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
